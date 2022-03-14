@@ -6,7 +6,7 @@ package com.credentials.main;
 import java.util.Scanner;
 
 import com.credentials.credenetialsService.CredentialsService;
-import com.credentials.employee.Employee;
+import com.credentials.model.Employee;
 
 /**
  * @author Shreyas

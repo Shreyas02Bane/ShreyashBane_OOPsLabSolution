@@ -1,4 +1,4 @@
-package com.credentials.employee;
+package com.credentials.model;
 
 
 public class Employee {
